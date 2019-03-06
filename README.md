@@ -56,6 +56,10 @@ At this point, it's possible to check the status of the server, by accessing thr
 
 TODO
 
+### References ###
+
+TODO
+
 ### License ###
 
 The program is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
