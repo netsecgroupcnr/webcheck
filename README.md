@@ -15,24 +15,24 @@ Following requirements should be satisfied:
 
 ### Installation ###
 
-# Access the system as `root`
+1. Access the system as `root`
 
-# `cd` into the `/root` directory
+2. `cd` into the `/root` directory
 ```
 cd /root
 ```
 
-# Clone the repository
+3. Clone the repository
 ```
 git clone https://github.com/netsecgroupcnr/webcheck.git
 ```
 
-# `cd` into the `webcheck` directory
+4. `cd` into the `webcheck` directory
 ```
 cd webcheck
 ```
 
-# Run the following command to install Python dependencies:
+5. Run the following command to install Python dependencies:
 ```
 pip install -r requirements.txt
 ```
