@@ -69,17 +69,18 @@ Other related works can be found at [www.netsec.ieiit.cnr.it](http://www.netsec.
 
 The program is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
+### Credits ###
+
+* Idea:
+  * Enrico Cambiaso
+* Design:
+  * Enrico Cambiaso
+* Development:
+  * Enrico Cambiaso
+* Support:
+  * Maurizio Aiello
+  * Gianluca Papaleo
+
 ### Contacts ###
 
 This program is implemented by the [NetSec group of CNR-IEIIT](http://www.netsec.ieiit.cnr.it).
-
-Credits:
- * Idea:
-   * Enrico Cambiaso
- * Design:
-   * Enrico Cambiaso
- * Development:
-   * Enrico Cambiaso
- * Support:
-   * Maurizio Aiello
-   * Gianluca Papaleo
